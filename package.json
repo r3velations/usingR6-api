@@ -29,8 +29,8 @@
     "r6",
     "r6s"
   ],
-  "author":,
-  "license":,
+  "author": "Tom Lendy",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/tomLendy/usingR6-api/issues"
   },
