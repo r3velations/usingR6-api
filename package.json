@@ -1,0 +1,32 @@
+{
+  "name": "usingr6-api",
+  "version": "1.0.0",
+  "description": "rainbowsix-api-node usage",
+  "main": "viral-chaos-xone.js",
+  "dependencies": {
+    "rainbowsix-api-node": "^0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomLendy/usingR6-api.git"
+  },
+  "keywords": [
+    "es6",
+    "js",
+    "node.js",
+    "rainbow",
+    "six",
+    "r6",
+    "r6s"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomLendy/usingR6-api/issues"
+  },
+  "homepage": "https://github.com/tomLendy/usingR6-api#readme"
+}
