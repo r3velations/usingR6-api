@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/tomLendy/usingR6-api.svg?branch=master)](https://travis-ci.org/tomLendy/usingR6-api)
+
 # usingR6-api
 I have been playing Rainbox Six Siege lately. I like to use R6stats.com to get my stats.
 I was looking into how to use their API directly versus using the app, so I came across
