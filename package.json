@@ -13,7 +13,7 @@
   "scripts": {
     "lint": "eslint .",
     "lint-and-fix": "eslint . --fix",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "",
     "ci": "npm run lint && npm run lint-and-fix"
   },
   "repository": {
